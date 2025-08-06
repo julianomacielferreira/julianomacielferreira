@@ -1,10 +1,9 @@
 ## Hi there, I'm Juliano 👋
 
-I live in Florianópolis, Santa Catarina, with my wife and teenage son. I'm a professional passionate about learning and continuous improvement, facing new challenges with enthusiasm and dedication.
+I live in Florianópolis, Santa Catarina, with my wife and teenage son. I'm a professional Software Developer passionate about learning and continuous improvement, facing new challenges with enthusiasm and dedication.
 
-Skills and Experience
+Experience with various technologies, including:
 
-- Software Development: Experience with various technologies, including:
 - Frameworks and programming languages: Angular, PHP, Java, Python
 - Databases: MySQL
 - Development tools: Docker, Redis, Pub/Sub, and RabbitMQ
