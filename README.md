@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Juliano 👋
 
-Hi, I'm Juliano! I live in Florianópolis, Santa Catarina, with my wife and teenage son. I'm a professional passionate about learning and continuous improvement, facing new challenges with enthusiasm and dedication.
+I live in Florianópolis, Santa Catarina, with my wife and teenage son. I'm a professional passionate about learning and continuous improvement, facing new challenges with enthusiasm and dedication.
 
 Skills and Experience
 
