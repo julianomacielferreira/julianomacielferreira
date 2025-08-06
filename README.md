@@ -2,19 +2,19 @@
 
 I live in Florianópolis, Santa Catarina, with my wife and teenage son. I'm a professional Software Developer passionate about learning and continuous improvement, facing new challenges with enthusiasm and dedication.
 
-Experience with various technologies, including:
+**Experience with various technologies, including:**
 
-- Frameworks and programming languages: Angular, PHP, Java, Python
-- Databases: MySQL
-- Development tools: Docker, Redis, Pub/Sub, and RabbitMQ
-- Teamwork: I'm an excellent team player, with strong attention to detail and high motivation. I'm friendly and collaborative, working well with people from diverse backgrounds.
-- Effective Communication: I have clear and frequent communication skills, both verbally and in writing. I'm accustomed to working in dynamic, fast-paced environments, adapting to the needs of the project.
+- **Frameworks and programming languages**: Angular, PHP, Java, Python
+- **Databases**: MySQL
+- **Development tools**: Docker, Redis, Pub/Sub, and RabbitMQ
+- **Teamwork**: I'm an excellent team player, with strong attention to detail and high motivation. I'm friendly and collaborative, working well with people from diverse backgrounds.
+- **Effective Communication**: I have clear and frequent communication skills, both verbally and in writing. I'm accustomed to working in dynamic, fast-paced environments, adapting to the needs of the project.
 
-Highlights
+**Highlights**
 
-- Continuous Learning: I'm always seeking to improve my skills and knowledge to face new challenges. 
-- Teamwork: I am a valuable team member, contributing to the project's success with my experience and skills.
-- Adaptability: I am accustomed to working in dynamic, fast-paced environments, adapting to the project's needs.
+- **Continuous Learning:** I'm always seeking to improve my skills and knowledge to face new challenges. 
+- **Teamwork:** I am a valuable team member, contributing to the project's success with my experience and skills.
+- **Adaptability:** I am accustomed to working in dynamic, fast-paced environments, adapting to the project's needs.
 
 <div align='center'>
   <a href="https://github.com/eduperottoni">
