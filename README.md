@@ -4,7 +4,7 @@ I live in Florianópolis, Santa Catarina, with my wife and teenage son. I'm a pr
 
 **Experience with various technologies, including:**
 
-- **Frameworks and programming languages**: Angular, PHP, Java, Python
+- **Frameworks and programming languages**: Java, Python, PHP, Typescript
 - **Databases**: MySQL
 - **Development tools**: Docker, Redis, Pub/Sub, and RabbitMQ
 - **Teamwork**: I'm an excellent team player, with strong attention to detail and high motivation. I'm friendly and collaborative, working well with people from diverse backgrounds.
