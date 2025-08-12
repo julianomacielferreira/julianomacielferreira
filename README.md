@@ -19,7 +19,7 @@ I live in Florianópolis, Santa Catarina, with my wife and teenage son. I'm a pr
 <div align='center'>
   <a href="https://github.com/eduperottoni">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=julianomacielferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianomacielferreira&layout=compact&langs_count=11&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianomacielferreira&layout=compact&langs_count=12&theme=tokyonight"/>
 </div>
 
 <!--
