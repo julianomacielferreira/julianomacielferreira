@@ -4,9 +4,9 @@ I live in Florianópolis, Santa Catarina, with my wife and teenage son. I'm a pr
 
 **Experience with various technologies, including:**
 
-- **Frameworks and programming languages**: Java, Python, PHP, Typescript
-- **Databases**: MySQL
-- **Development tools**: Docker, Redis, Pub/Sub, and RabbitMQ
+- **Frameworks and programming languages**: Java, Python, PHP, Typescript, C++ (Enough to solve a lot of problems 😉)
+- **Databases**: MySQL, SQLite
+- **Development tools**: Docker, Redis, RabbitMQ
 - **Teamwork**: I'm an excellent team player, with strong attention to detail and high motivation. I'm friendly and collaborative, working well with people from diverse backgrounds.
 - **Effective Communication**: I have clear and frequent communication skills, both verbally and in writing. I'm accustomed to working in dynamic, fast-paced environments, adapting to the needs of the project.
 
