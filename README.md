@@ -33,11 +33,11 @@ I live in Florianópolis, Santa Catarina, with my wife and teenage son. I'm a pr
 
 <div align='center'>
   <a href="https://github.com/julianomacielferreira">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=julianomacielferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-   <a href="https://github.com/julianomacielferreira">
     <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianomacielferreira&theme=dark"/>
   </a>
+  <a href="https://github.com/julianomacielferreira">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=julianomacielferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>   
 </div>
 
 <!--
