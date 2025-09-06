@@ -2,11 +2,11 @@
 ![GitHub stars](https://img.shields.io/github/stars/julianomacielferreira?style=social)
 ## Hi there, I'm Juliano 👋
 
-I live in Florianópolis, Santa Catarina, with my wife and teenage son. I'm a Senior Fullstack Developer in Java | Python | PHP | Typescript, passionate about learning and continuous improvement, facing new challenges with enthusiasm and dedication.
+I live in Florianópolis, Santa Catarina, with my wife and teenage son. I'm a Senior Fullstack Developer in Java | Python | PHP | Node | Angular | Vue | React, passionate about learning and continuous improvement, facing new challenges with enthusiasm and dedication.
 
 **Experience with various technologies, including:**
 
-- **Frameworks and programming languages**: Java, Python, PHP, Typescript, C++ (Enough to solve a lot of problems 😉)
+- **Frameworks and programming languages**: Java, Python, PHP, Node, Angular, Vue, React and C++ (Enough to solve a lot of problems 😉)
 - **Databases**: MySQL, SQLite, PostgreSQL, MongoDB
 - **Development tools**: Docker, Redis, RabbitMQ
 - **Teamwork**: I'm an excellent team player, with strong attention to detail and high motivation. I'm friendly and collaborative, working well with people from diverse backgrounds.
