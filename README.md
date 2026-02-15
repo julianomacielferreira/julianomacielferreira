@@ -6,7 +6,7 @@ I live in Florianópolis, Santa Catarina, with my wife and teenage son. I'm a Se
 
 **Experience with various technologies, including:**
 
-- **Frameworks and programming languages**: Java, Python, Node, Angular and C++ (Enough to solve a lot of problems 😉)
+- **Frameworks and programming languages**: Node, Java, Python, Angular and C++ (Enough to solve a lot of problems 😉)
 - **Databases**: MySQL, SQLite, PostgreSQL, MongoDB, BigQuery
 - **Development tools**: Docker, Redis, RabbitMQ, Pub/Sub, New Relic
 - **Teamwork**: I'm an excellent team player, with strong attention to detail and high motivation. I'm friendly and collaborative, working well with people from diverse backgrounds.
