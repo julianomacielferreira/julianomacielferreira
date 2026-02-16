@@ -21,9 +21,9 @@ I live in Florianópolis, Santa Catarina, with my wife and teenage son. I'm a Se
 ## 📊 GitHub Stats
 
 <div align='center'>
-  <a href="https://github.com/julianomacielferreira">
+  <!-- <a href="https://github.com/julianomacielferreira">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianomacielferreira&layout=compact&langs_count=12&theme=dark"/>
-  </a>
+  </a> -->
   <a href="https://github.com/julianomacielferreira">
     <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=julianomacielferreira&theme=dark"/>
   </a>
