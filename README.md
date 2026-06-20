@@ -8,7 +8,7 @@ I live in Florianópolis, Santa Catarina, with my wife and teenage son. I'm a Se
 
 - **Frameworks and programming languages**: Node, Java, Python, Angular and C++ (Enough to solve a lot of problems 😉)
 - **Databases**: MySQL, SQLite, PostgreSQL, MongoDB, BigQuery
-- **Development tools**: Docker, Redis, RabbitMQ, Pub/Sub, New Relic, GraphQL
+- **Development tools**: Docker, Redis, RabbitMQ, Pub/Sub, Kafka, New Relic, GraphQL
 - **Teamwork**: I'm an excellent team player, with strong attention to detail and high motivation. I'm friendly and collaborative, working well with people from diverse backgrounds.
 - **Effective Communication**: I have clear and frequent communication skills, both verbally and in writing. I'm accustomed to working in dynamic, fast-paced environments, adapting to the needs of the project.
 
